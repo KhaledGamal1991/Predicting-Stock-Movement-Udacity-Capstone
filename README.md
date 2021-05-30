@@ -13,7 +13,7 @@
 <a name="mp"></a>
 ## Motivation for the project:
 
-I always was interested if it is possible to predict stock prices and even wrote my master to this topic. Also some friends of mine are doing trading.
+I always was interested if it is possible to predict stock prices Specialy I do trading sometimes.
 I was curious if python and machine learning techniques can support me in this query and make the predictions better. That I what I would like to study in my project.
 
 <a name="prov"></a>
@@ -62,3 +62,6 @@ Classification models seem to deliver very resilts with high predictive power of
 <a name="li"></a>
 ## Licensing, Authors, Acknowledgements:
 
+Please find my Article at below Link:
+
+https://datascience-btc-world.blogspot.com/2021/05/stock-prices-prediction-table-of-1.html
