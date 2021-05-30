@@ -1,4 +1,4 @@
-# Investment-and-Trading-Capstone-Project
+# Predicting-Stock-Movement-Udacity-Capstone
 
 
 ## Table of Contents:
@@ -49,7 +49,7 @@ statsmodels<br />
 ## Files Descriptions:
 
 
-| |--  Capstone Project Predicting Stock Movements -----------------> main python file of the project with all visualisations, explanaitions and details<br />
+| |--  Stock Prices Predication -----------------> main python file of the project with all visualisations, explanaitions and details<br />
 
 <a name="instr"></a>
 ## Summary of the results of the analysis:
